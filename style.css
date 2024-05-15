@@ -1,0 +1,33 @@
+body {
+    background-color: black;
+  }
+  
+  h1 {
+    color: darkslategray;
+    text-align: center;
+    border: 10px;
+    border-radius: 5px;
+    padding: 3px;
+    border-style: groove;
+    box-shadow: 0 0 10px;
+    border-color: dimgray;  
+    font-family: cursive;
+  }
+  
+  p {
+    color: darkgray;
+    font-family: cursive;
+    text-align: center;
+  }
+  
+  .car {
+    color: darkgray;
+    font-family: cursive;
+    border-style: groove;
+    border-color: dimgray;
+    border-radius: 5px;
+    padding: 5px;
+    text-decoration: none;
+    background-color: lightgray; 
+  }
+  

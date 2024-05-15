@@ -1,0 +1,43 @@
+body {
+    background-color: black;
+  }
+  
+  p {
+    color: darkgray; 
+    text-align: center; 
+    font-family: cursive;
+  }
+  
+  h1 {
+    color: slategray; 
+    font-family: monospace; 
+    text-align: center; 
+    border: 10px; 
+    border-radius: 10px; 
+    border-style: solid; 
+    border-color: dimgray; 
+    box-shadow: 0 0 10px; 
+  }
+  
+  img { 
+    height: 300px; 
+    width: 400px; 
+    border: 10px; 
+    border-radius: 10px; 
+    border-style: groove; 
+    border-color: gray; 
+    margin: 10px; 
+    float: inherit; 
+    box-shadow: 0 0 10px; 
+  } 
+  
+  .car {
+    color: darkgray;
+    font-family: cursive;
+    border-style: groove;
+    border-color: dimgray;
+    border-radius: 5px;
+    padding: 5px;
+    text-decoration: none;
+    background-color: lightgray;
+  }
